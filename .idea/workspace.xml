@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="067ec816-aa1f-4f01-a4c9-686df34a5ec1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/.env" beforeDir="false" afterPath="$PROJECT_DIR$/client/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Form/Form.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Form/Form.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/config/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/config/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/features/misc/api/checkout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/features/misc/api/checkout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/features/misc/routes/Payment.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/features/misc/routes/Payment.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/api/checkout.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api/checkout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BidDErH5Rn9jDxaisQsM7po9ib" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="067ec816-aa1f-4f01-a4c9-686df34a5ec1" name="Changes" comment="" />
+      <created>1657392744439</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657392744439</updated>
+      <workItem from="1657392759593" duration="14000" />
+      <workItem from="1657505805758" duration="5000" />
+    </task>
+    <servers />
+  </component>
+</project>

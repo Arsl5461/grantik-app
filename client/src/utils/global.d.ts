@@ -1,0 +1,17 @@
+declare module "react-carousel-minimal";
+declare module "react-animated-slider";
+declare module "socket.io-client";
+declare module "react-three-fiber";
+declare module "use-react-screenshot";
+declare module "react-scroll-to-bottom";
+declare module "react-emoji";
+declare module '*.ttf';
+declare module '*.mp3';
+declare module '*.TTF';
+declare module '*.css';
+declare module '*.hdr';
+declare module '*.gltf';
+declare module "troika-three-text";
+declare module "react-file-reader";
+declare module "react-s3";
+declare module "react-uuid";
